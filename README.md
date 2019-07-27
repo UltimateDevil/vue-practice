@@ -1,1 +1,1 @@
-Vue Practice App
+Vue Practice App - :)
